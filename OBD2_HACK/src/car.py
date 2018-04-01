@@ -67,7 +67,8 @@ if __name__ == "__main__":
                 connection.close()
           
         #connection.interface.write(b"ATPP0CSV08")    
-        #Turn on the scaner 
+        
+        #This command places the ELM327 into a bus monitoring mode 
         connection.interface.write(b"ATMA")
         text_file = open("Output.txt", "w")
 
