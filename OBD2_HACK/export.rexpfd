@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="Dell.Raspberry PI3:/home/pi"/>
+    <options createDirectoryStructure="true" createSelectedOnly="false" descriptionFilePath="/OBD2_HACK/export.rexpfd" overWriteExistingFiles="true" reviewSynchronize="false" saveSettings="true"/>
+    <selectedElements>
+        <file path="/OBD2_HACK/.project"/>
+        <file path="/OBD2_HACK/.pydevproject"/>
+        <folder path="/OBD2_HACK/lib"/>
+        <file path="/OBD2_HACK/src/car.py"/>
+    </selectedElements>
+</rexpfd>

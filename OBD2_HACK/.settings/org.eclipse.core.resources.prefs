@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//lib/obd/OBDCommand.py=utf-8
+encoding//lib/obd/OBDResponse.py=utf-8
+encoding//lib/obd/__init__.py=utf-8
+encoding//lib/obd/commands.py=utf-8
+encoding//lib/obd/elm327.py=utf-8
+encoding//lib/obd/obd.py=utf-8
+encoding//lib/obd/protocols/protocol.py=utf-8
+encoding//lib/obd/utils.py=utf-8
+encoding//lib/pint/quantity.py=utf-8
