@@ -5,7 +5,7 @@ This project aim to help to evaluate packages sent through a CAN in your car. Th
 Written in Python, using PySerial.  
 
 DESIGN GOALS:
- - Functional OBD2 scantool for Linux
+ - OBD2 tool to monitor and assess all packages
  - Use bluetooth ELM327
  - Flexible, modular design for easy extension and reuse
 
