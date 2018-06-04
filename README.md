@@ -6,5 +6,6 @@ Written in Python, using PySerial.
 
 DESIGN GOALS:
  - Functional OBD2 scantool for Linux
+ - Use bluetooth ELM327
  - Flexible, modular design for easy extension and reuse
 
